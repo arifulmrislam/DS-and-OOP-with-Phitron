@@ -22,6 +22,8 @@
 
 - [Bro Code](https://www.youtube.com/watch?v=xX5iOYCJmBI&list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8&index=1)
 
+- [AlgoBot](https://www.youtube.com/watch?v=3gwBZwsa_ik&list=PLknt5L1fvp7W97R2VvIWaim6s1HuCe06y)
+
 ## Important Links
 - [Codechef](https://www.codechef.com/getting-started)
 
@@ -29,7 +31,7 @@
 
 - [Codechef](https://www.codechef.com/certification/data-structures-and-algorithms/prepare)
 
-- [AlgoBot](https://www.youtube.com/watch?v=3gwBZwsa_ik&list=PLknt5L1fvp7W97R2VvIWaim6s1HuCe06y)
+
 
 
 
