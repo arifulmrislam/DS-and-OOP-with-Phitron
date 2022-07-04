@@ -9,7 +9,7 @@
 - [52 Programming Problems and Solution](https://drive.google.com/file/d/1ZvkZOrdpJezviiUGHKmy2BNivtygASsT/view?fbclid=IwAR0cmTdxl8Z6oI-OtTO0wQ5blYZQqLnWsuOPypolDJLs6d-XYncQUeEZmdQ)
 
 ## Problems-more than 400 
-- [DSA by Shradha Didi & Aman Bhaiya]https://docs.google.com/spreadsheets/d/1hXserPuxVoWMG9Hs7y8wVdRCJTcj3xMBAEYUOXQ5Xag/edit#gid=0
+- [DSA by Shradha Didi & Aman Bhaiya] https://docs.google.com/spreadsheets/d/1hXserPuxVoWMG9Hs7y8wVdRCJTcj3xMBAEYUOXQ5Xag/edit#gid=0
 
 ## Contributing
 
