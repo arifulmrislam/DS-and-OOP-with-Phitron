@@ -8,8 +8,31 @@
 
 - [52 Programming Problems and Solution](https://drive.google.com/file/d/1ZvkZOrdpJezviiUGHKmy2BNivtygASsT/view?fbclid=IwAR0cmTdxl8Z6oI-OtTO0wQ5blYZQqLnWsuOPypolDJLs6d-XYncQUeEZmdQ)
 
+- [Algorithms-JeffE](https://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf)
+
+
+
 ## Problems-more than 400 
 - [DSA by Shradha Didi & Aman Bhaiya](https://docs.google.com/spreadsheets/d/1hXserPuxVoWMG9Hs7y8wVdRCJTcj3xMBAEYUOXQ5Xag/edit#gid=0)
+
+- [ZTM-DS-and-Algo-Python](https://github.com/VicodinAbuser/ZTM-DS-and-Algo-Python)
+
+## YouTube Channel
+- [CS Dojo](https://www.youtube.com/watch?v=bum_19loj9A&list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H)
+
+- [Bro Code](https://www.youtube.com/watch?v=xX5iOYCJmBI&list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8&index=1)
+
+## Important Links
+- [Codechef](https://www.codechef.com/getting-started)
+
+- [Medium](https://medium.com/techie-delight/top-25-algorithms-every-programmer-should-know-373246b4881b)
+
+- [Codechef](https://www.codechef.com/certification/data-structures-and-algorithms/prepare)
+
+- [AlgoBot](https://www.youtube.com/watch?v=3gwBZwsa_ik&list=PLknt5L1fvp7W97R2VvIWaim6s1HuCe06y)
+
+
+
 
 ## Contributing
 
