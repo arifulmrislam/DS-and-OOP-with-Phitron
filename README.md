@@ -24,12 +24,22 @@
 
 - [AlgoBot](https://www.youtube.com/watch?v=3gwBZwsa_ik&list=PLknt5L1fvp7W97R2VvIWaim6s1HuCe06y)
 
+- [Abdul Bari](https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
+
+- [Jennys Lectures](https://www.youtube.com/watch?v=9oWd4VJOwr0&list=PLdo5W4Nhv31bbKJzrsKfMpo_grxuLl8LU&index=100)
+
 ## Important Links
 - [Codechef](https://www.codechef.com/getting-started)
 
 - [Medium](https://medium.com/techie-delight/top-25-algorithms-every-programmer-should-know-373246b4881b)
 
 - [Codechef](https://www.codechef.com/certification/data-structures-and-algorithms/prepare)
+
+- [Vissualgo](https://visualgo.net/en)
+
+## Blogs
+
+- [শাফায়েতের ব্লগ](http://www.shafaetsplanet.com/?p=2689)
 
 
 
