@@ -56,7 +56,7 @@
 
 ## Phitron 
 
-- [Module 01](https://drive.google.com/file/d/1lrb5U402Sn6Y0i8gUX6I2RFivP8wxCht/view)
+- [Module 01 Introduction to DS and Course overview](https://drive.google.com/file/d/1lrb5U402Sn6Y0i8gUX6I2RFivP8wxCht/view)
 
 ## C++
 
