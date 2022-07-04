@@ -96,7 +96,8 @@ WHERE
    AND a.attrelid = t.oid
    AND a.attnum = ANY(ix.indkey)
    AND t.relnamespace = n.oid
-    AND n.nspname = KARTONS
+    AND n.nspname = 
+    KARTONS
 ORDER BY
    t.relname,
    i.relname
