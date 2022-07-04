@@ -51,6 +51,10 @@
 
 - [Module 01](https://drive.google.com/file/d/1lrb5U402Sn6Y0i8gUX6I2RFivP8wxCht/view)
 
+## C++
+
+- [Geeksforgeeks](https://www.geeksforgeeks.org/c-data-types/?ref=lbp)
+
 ## Contributing
 
 This is a personal learning project for me.
