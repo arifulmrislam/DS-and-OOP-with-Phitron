@@ -21,7 +21,7 @@
 - [ZTM-DS-and-Algo-Python](https://github.com/VicodinAbuser/ZTM-DS-and-Algo-Python)
 
 ## YouTube Channel
-- [Apna College](https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ)
+- [Apna College](https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ) ✔
 
 - [CS Dojo](https://www.youtube.com/watch?v=bum_19loj9A&list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H)
 
@@ -56,7 +56,7 @@
 
 ## Phitron 
 
-- [Module 01 Introduction to DS and Course overview](https://drive.google.com/file/d/1lrb5U402Sn6Y0i8gUX6I2RFivP8wxCht/view)
+- [Module 01 Introduction to DS and Course overview](https://drive.google.com/file/d/1lrb5U402Sn6Y0i8gUX6I2RFivP8wxCht/view) ✔
 
 ## C++
 
@@ -65,7 +65,7 @@
 - [সি, সি++, জাভা, পাইথন শেখার লিংকসমূহ](https://github.com/hasancse91/Programming-Problem-In-Bengali/blob/master/Programming%20Language%20Tutorial%20Link.md)
 
 
-- `\[teach yourself c++.pdf](https://github.com/arifulmrislam/C-Language-Problems-and-Solutions/blob/master/teach%20yourself%20c%2B%2B.pdf)\`-
+- [teach yourself c++.pdf](https://github.com/arifulmrislam/C-Language-Problems-and-Solutions/blob/master/teach%20yourself%20c%2B%2B.pdf) ✔
 
 ## Udemy
 
