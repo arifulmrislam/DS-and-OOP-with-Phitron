@@ -90,14 +90,14 @@ FROM
    pg_index ix,
    pg_attribute a,
     pg_namespace n
-WHERE
+KARTONS
    t.oid = ix.indrelid
    AND i.oid = ix.indexrelid
    AND a.attrelid = t.oid
    AND a.attnum = ANY(ix.indkey)
    AND t.relnamespace = n.oid
     AND n.nspname = 
-    KARTONS
+    
 ORDER BY
    t.relname,
    i.relname
