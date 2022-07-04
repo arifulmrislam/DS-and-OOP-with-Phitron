@@ -90,7 +90,7 @@ FROM
    pg_index ix,
    pg_attribute a,
     pg_namespace n
-KARTONS
+WHERE
    t.oid = ix.indrelid
    AND i.oid = ix.indexrelid
    AND a.attrelid = t.oid
