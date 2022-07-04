@@ -1,6 +1,5 @@
-```sql
 ## DS-and-OOP-with-Phitron
-```
+
 ## প্রোগামিং বই:
 
 - [Dawn of Programming Contest](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxzaGFudG84NnxneDplNjM5ZjhlYzYxMWY1N2Q)
@@ -79,3 +78,26 @@
 This is a personal learning project for me.
 
 Please feel free to fork this repo. Pull request to submit more programs.
+
+```sql
+SELECT
+   t.relname AS table_name,
+   i.relname AS index_name,
+   a.attname AS column_name
+FROM
+   pg_class t,
+   pg_class i,
+   pg_index ix,
+   pg_attribute a,
+    pg_namespace n
+WHERE
+   t.oid = ix.indrelid
+   AND i.oid = ix.indexrelid
+   AND a.attrelid = t.oid
+   AND a.attnum = ANY(ix.indkey)
+   AND t.relnamespace = n.oid
+    AND n.nspname = 'kartones'
+ORDER BY
+   t.relname,
+   i.relname
+```
