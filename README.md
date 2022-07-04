@@ -13,7 +13,8 @@
 - [Data Structure and Algorithms Books](https://drive.google.com/file/d/1A8_pfCk8KCQlHXo4Ptno8po39aJiDH00/view)
 
 - [Programming problem and solutions](https://drive.google.com/file/d/1aM8Vmj2gb0ewDnjAjcQo9HhXm2bcJHBG/view)
-- 
+
+- [teach yourself c++.pdf](https://github.com/arifulmrislam/C-Language-Problems-and-Solutions/blob/master/teach%20yourself%20c%2B%2B.pdf)
 
 
 
@@ -58,7 +59,7 @@
 
 - [সি, সি++, জাভা, পাইথন শেখার লিংকসমূহ](https://github.com/hasancse91/Programming-Problem-In-Bengali/blob/master/Programming%20Language%20Tutorial%20Link.md)
 
-- [teach yourself c++.pdf](https://github.com/arifulmrislam/C-Language-Problems-and-Solutions/blob/master/teach%20yourself%20c%2B%2B.pdf)
+
 
 ## Phitron 
 
