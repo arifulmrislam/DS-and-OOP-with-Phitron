@@ -64,7 +64,7 @@
 
 - [সি, সি++, জাভা, পাইথন শেখার লিংকসমূহ](https://github.com/hasancse91/Programming-Problem-In-Bengali/blob/master/Programming%20Language%20Tutorial%20Link.md)
 
-- `[teach yourself c++.pdf]`(https://github.com/arifulmrislam/C-Language-Problems-and-Solutions/blob/master/teach%20yourself%20c%2B%2B.pdf)
+- `[teach yourself c++.pdf](https://github.com/arifulmrislam/C-Language-Problems-and-Solutions/blob/master/teach%20yourself%20c%2B%2B.pdf)`
 
 ## Udemy
 
