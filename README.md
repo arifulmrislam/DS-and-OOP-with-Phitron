@@ -21,7 +21,7 @@
 - [ZTM-DS-and-Algo-Python](https://github.com/VicodinAbuser/ZTM-DS-and-Algo-Python)
 
 ## YouTube Channel
-- [Apna College](https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ) ✔
+- [Apna College](https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ) 🦾🧠
 
 - [CS Dojo](https://www.youtube.com/watch?v=bum_19loj9A&list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H)
 
@@ -44,7 +44,7 @@
 
 - [Vissualgo](https://visualgo.net/en)
 
-- [C++ interview question](https://www.interviewbit.com/cpp-interview-questions/?utm_source=midfunnel&utm_medium=email)
+- [C++ interview question](https://www.interviewbit.com/cpp-interview-questions/?utm_source=midfunnel&utm_medium=email) 🦾🧠
 
 ## Blogs
 
@@ -60,12 +60,12 @@
 
 ## C++
 
-- [Geeksforgeeks](https://www.geeksforgeeks.org/c-data-types/?ref=lbp)
+- [Geeksforgeeks](https://www.geeksforgeeks.org/c-data-types/?ref=lbp)🦾🧠
 
 - [সি, সি++, জাভা, পাইথন শেখার লিংকসমূহ](https://github.com/hasancse91/Programming-Problem-In-Bengali/blob/master/Programming%20Language%20Tutorial%20Link.md)
 
 
-- [teach yourself c++.pdf](https://github.com/arifulmrislam/C-Language-Problems-and-Solutions/blob/master/teach%20yourself%20c%2B%2B.pdf) ✔
+- [teach yourself c++.pdf](https://github.com/arifulmrislam/C-Language-Problems-and-Solutions/blob/master/teach%20yourself%20c%2B%2B.pdf) 🦾🧠
 
 ## Udemy
 
