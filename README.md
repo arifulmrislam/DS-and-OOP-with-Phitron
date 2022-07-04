@@ -18,6 +18,8 @@
 - [ZTM-DS-and-Algo-Python](https://github.com/VicodinAbuser/ZTM-DS-and-Algo-Python)
 
 ## YouTube Channel
+- [Apna College](https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ)
+
 - [CS Dojo](https://www.youtube.com/watch?v=bum_19loj9A&list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H)
 
 - [Bro Code](https://www.youtube.com/watch?v=xX5iOYCJmBI&list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8&index=1)
@@ -39,6 +41,8 @@
 
 - [Vissualgo](https://visualgo.net/en)
 
+- [C++ interview question](https://www.interviewbit.com/cpp-interview-questions/?utm_source=midfunnel&utm_medium=email)
+
 ## Blogs
 
 - [শাফায়েতের ব্লগ](http://www.shafaetsplanet.com/?p=2689)
@@ -46,6 +50,10 @@
 
 ## GitHub 
 - [বাংলায় প্রোগ্রামিং রিসোর্সসমূহ](https://github.com/me-shaon/bangla-programming-resources#%E0%A6%8F%E0%A6%B2%E0%A6%97%E0%A7%8B%E0%A6%B0%E0%A6%BF%E0%A6%A6%E0%A6%AE)
+
+- [সি, সি++, জাভা, পাইথন শেখার লিংকসমূহ](https://github.com/hasancse91/Programming-Problem-In-Bengali/blob/master/Programming%20Language%20Tutorial%20Link.md)
+
+- [teach yourself c++.pdf](https://github.com/arifulmrislam/C-Language-Problems-and-Solutions/blob/master/teach%20yourself%20c%2B%2B.pdf_)
 
 ## Phitron 
 
