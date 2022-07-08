@@ -14,7 +14,7 @@
 
 - [Programming problem and solutions](https://drive.google.com/file/d/1aM8Vmj2gb0ewDnjAjcQo9HhXm2bcJHBG/view)
 
-- [প্রোগামিংয়ের চৌদ্দগুষ্ঠী - ঝংকার মাহবুব](https://drive.google.com/file/d/17vPTP50LB4DHE7mZEIIZCkQmLpG4Iq5M/view?usp=sharing)
+- [প্রোগামিংয়ের চৌদ্দগুষ্ঠী - ঝংকার মাহবুব](https://drive.google.com/file/d/17vPTP50LB4DHE7mZEIIZCkQmLpG4Iq5M/view?usp=sharing) 🦾🧠
 
 ## Problems-more than 400 
 - [DSA by Shradha Didi & Aman Bhaiya](https://docs.google.com/spreadsheets/d/1hXserPuxVoWMG9Hs7y8wVdRCJTcj3xMBAEYUOXQ5Xag/edit#gid=0)
