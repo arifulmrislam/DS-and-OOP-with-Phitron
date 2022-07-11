@@ -63,6 +63,7 @@
 - [Module 02 Introduction to C++ Language and Basics](https://github.com/arifulmrislam/DS-and-OOP-with-Phitron/tree/master/Module%2002%20Introduction%20to%20C%2B%2B%20Basic) ✔
 - [Module 2.5 week 01 practice day 01](https://github.com/arifulmrislam/DS-and-OOP-with-Phitron/tree/master/Module%202.5%20week%2001%20practice%20day%2001) ✔
 - [Module 03 Lab Class 01](https://www.geeksforgeeks.org/top-10-most-used-inbuilt-c-functions-for-competitive-programming/) ✔
+- [Module 3.5 week 01 practice day 02](https://github.com/arifulmrislam/DS-and-OOP-with-Phitron/tree/master/Module%203.5%20week%2001%20practice%20day%2002) ✔
 
 ## C++
 
