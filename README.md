@@ -1,6 +1,5 @@
 ## DS-and-OOP-with-Phitron
-
-[![](https://img.shields.io/badge/github-blue?style=for-the-badge)](https://github.com/hamzamohdzubair/redant)
+<span color="red">red</span>
 ```
 প্রোগামিং বই:
 ```
