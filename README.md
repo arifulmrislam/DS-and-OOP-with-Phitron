@@ -1,8 +1,6 @@
 ## DS-and-OOP-with-Phitron
 
-<p style='color:red'>This is some red text.</p>
-
-<span style="color:orange;">Word up</span>
+[![](https://img.shields.io/badge/github-blue?style=for-the-badge)](https://github.com/hamzamohdzubair/redant)
 ```
 প্রোগামিং বই:
 ```
