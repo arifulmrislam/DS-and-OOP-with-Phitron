@@ -64,7 +64,7 @@ GitHub
 ```
 Phitron 
 ```
-- [x][Module 01 Introduction to DS and Course overview](https://drive.google.com/file/d/1lrb5U402Sn6Y0i8gUX6I2RFivP8wxCht/view) ✔
+- [Module 01 Introduction to DS and Course overview](https://drive.google.com/file/d/1lrb5U402Sn6Y0i8gUX6I2RFivP8wxCht/view) ✔
 - [Module 02 Introduction to C++ Language and Basics](https://github.com/arifulmrislam/DS-and-OOP-with-Phitron/tree/master/Module%2002%20Introduction%20to%20C%2B%2B%20Basic) ✔
 - [Module 2.5 week 01 practice day 01](https://github.com/arifulmrislam/DS-and-OOP-with-Phitron/tree/master/Module%202.5%20week%2001%20practice%20day%2001) ✔
 - [Module 03 Lab Class 01](https://www.geeksforgeeks.org/top-10-most-used-inbuilt-c-functions-for-competitive-programming/) ✔
@@ -90,8 +90,7 @@ This is a personal learning project for me.
 
 Please feel free to fork this repo. Pull request to submit more programs.
 
-```
-```
+---
 🚩 `Connect with me on social`
 - `LinkedIn:` [LinkedIn](https://www.linkedin.com/in/ariful-islam-arif-2987b51a3/)
 - `Twitter:` [Twitter](https://twitter.com/arifulislam301)
