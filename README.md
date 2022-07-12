@@ -1,5 +1,4 @@
 ## DS-and-OOP-with-Phitron
-<span color="red">red</span>
 ```
 প্রোগামিং বই:
 ```
