@@ -58,8 +58,9 @@ Blogs
 
 ```
 GitHub 
-- [বাংলায় প্রোগ্রামিং রিসোর্সসমূহ](https://github.com/me-shaon/bangla-programming-resources#%E0%A6%8F%E0%A6%B2%E0%A6%97%E0%A7%8B%E0%A6%B0%E0%A6%BF%E0%A6%A6%E0%A6%AE)
 ```
+- [বাংলায় প্রোগ্রামিং রিসোর্সসমূহ](https://github.com/me-shaon/bangla-programming-resources#%E0%A6%8F%E0%A6%B2%E0%A6%97%E0%A7%8B%E0%A6%B0%E0%A6%BF%E0%A6%A6%E0%A6%AE)
+
 ```
 Phitron 
 ```
