@@ -1,5 +1,7 @@
 ## DS-and-OOP-with-Phitron
 
+<p style='color:red'>This is some red text.</p>
+
 <span style="color:orange;">Word up</span>
 ```
 প্রোগামিং বই:
