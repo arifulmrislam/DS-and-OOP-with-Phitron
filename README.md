@@ -14,7 +14,7 @@
 
 - [Programming problem and solutions](https://drive.google.com/file/d/1aM8Vmj2gb0ewDnjAjcQo9HhXm2bcJHBG/view)
 
-- [প্রোগামিংয়ের চৌদ্দগুষ্ঠী - ঝংকার মাহবুব](https://drive.google.com/file/d/17vPTP50LB4DHE7mZEIIZCkQmLpG4Iq5M/view?usp=sharing) 🦾🧠
+- [প্রোগামিংয়ের চৌদ্দগুষ্ঠী - ঝংকার মাহবুব](https://drive.google.com/file/d/17vPTP50LB4DHE7mZEIIZCkQmLpG4Iq5M/view?usp=sharing) ✔
 ```
 Problems-more than 400 
 ```
@@ -48,7 +48,7 @@ Important Links
 
 - [Vissualgo](https://visualgo.net/en)
 
-- [C++ interview question](https://www.interviewbit.com/cpp-interview-questions/?utm_source=midfunnel&utm_medium=email) 🦾🧠
+- [C++ interview question](https://www.interviewbit.com/cpp-interview-questions/?utm_source=midfunnel&utm_medium=email) ✔
 ```
 Blogs
 ```
