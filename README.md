@@ -48,6 +48,8 @@ Important Links
 
 - [Vissualgo](https://visualgo.net/en)
 
+- [Object-Oriented Programming Basics](https://samiunblack.xyz/blog/oop-basics) ✔
+
 - [C++ interview question](https://www.interviewbit.com/cpp-interview-questions/?utm_source=midfunnel&utm_medium=email) ✔
 ```
 Blogs
