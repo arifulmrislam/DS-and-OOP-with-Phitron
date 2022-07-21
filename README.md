@@ -73,7 +73,7 @@ Phitron
 - [Module 3.5 week 01 practice day 02](https://github.com/arifulmrislam/DS-and-OOP-with-Phitron/tree/master/Module%203.5%20week%2001%20practice%20day%2002) ✔
 - [Module 04 More about C++](https://drive.google.com/file/d/1aPqT1mopSCjplADutwj4FBNM3ApdU42Z/view) ✔
 - [Module 05 OOP concepts in C++](https://www.geeksforgeeks.org/object-oriented-programming-in-cpp/?ref=lbp) ✔
-- [String in C++]() ✔
+- [String in C++](https://www.w3schools.com/cpp/cpp_strings.asp) ✔
 ```
 C++
 ```
