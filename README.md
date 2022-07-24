@@ -75,7 +75,7 @@ Phitron
 - [Module 05 OOP concepts in C++](https://www.geeksforgeeks.org/object-oriented-programming-in-cpp/?ref=lbp) ✔
 - [String in C++](https://www.w3schools.com/cpp/cpp_strings.asp) ✔
 - [Module 6.5 Week02 practice day 01](https://docs.google.com/document/d/1Vl0DXGV5_DmKRDaCoGd9KWe9TyOtG1IllYPpIfahtAs/edit) ✔
-- [Module 07 Lab Class 02]() ✔
+- [Module 07 Lab Class 02](https://github.com/arifulmrislam/DS-and-OOP-with-Phitron/tree/master/Module%207%20Lab%20Class%2002) ✔
 - [Module 7.5 Week 02 practice day 02](https://docs.google.com/document/d/12FyyDrIZaiAmz-3La39e77R-zciNpDpp811jk_tINrs/edit) ✔
 - [Module 08 Exam 01](https://github.com/arifulmrislam/DS-and-OOP-with-Phitron/tree/master/Module%208%20Final%20Exam) ✔
 ```
