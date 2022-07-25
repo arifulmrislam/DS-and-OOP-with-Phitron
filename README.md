@@ -79,7 +79,7 @@ Phitron
 - [Module 7.5 Week 02 practice day 02](https://docs.google.com/document/d/12FyyDrIZaiAmz-3La39e77R-zciNpDpp811jk_tINrs/edit) ✔
 - [Module 08 Exam 01](https://github.com/arifulmrislam/DS-and-OOP-with-Phitron/tree/master/Module%208%20Final%20Exam) ✔
 - [Module 09 Introduction to array and basic operations](https://github.com/arifulmrislam/DS-and-OOP-with-Phitron/tree/master/Module%209%20Introduction%20to%20Array%20and%20Basic%20Operations) ✔
-- [Module 10 Application to array (searching)]() ✔
+- [Module 10 Application to array (searching)](https://github.com/arifulmrislam/DS-and-OOP-with-Phitron/tree/master/Module%2010%20Application%20of%20Array(Searching)) ✔
 ```
 C++
 ```
