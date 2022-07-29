@@ -102,7 +102,7 @@ C++ Data Structures and Algorithms
 
 ```
 - [Cheat Sheet 1](https://wiki.josephhyatt.com/) 🦾🧠
-- [Cheat Sheet 2](https://wiki.josephhyatt.com/](https://cheatography.com/burcuco/cheat-sheets/data-structures-and-algorithms/) 🦾🧠
+- [Cheat Sheet 2](https://cheatography.com/burcuco/cheat-sheets/data-structures-and-algorithms/) 🦾🧠
 
 ```
 Contributing
