@@ -80,8 +80,8 @@ Phitron
 - [Module 08 Exam 01](https://github.com/arifulmrislam/DS-and-OOP-with-Phitron/tree/master/Module%208%20Final%20Exam) ✔
 - [Module 09 Introduction to array and basic operations](https://github.com/arifulmrislam/DS-and-OOP-with-Phitron/tree/master/Module%209%20Introduction%20to%20Array%20and%20Basic%20Operations) ✔
 - [Module 10 Application to array (searching)](https://github.com/arifulmrislam/DS-and-OOP-with-Phitron/tree/master/Module%2010%20Application%20of%20Array(Searching)) ✔
-- [Module 10.5 Week 03 Practice day 01](https://docs.google.com/document/d/1-9luFdne8CUluy8FeZx74DQsJOY4Su7W/edit) [Ans](https://github.com/arifulmrislam/DS-and-OOP-with-Phitron/tree/master/Module%2010.5%20Week%203%20Practice%20Day%2001)✔
-- [Module 11 week 3 Lab Class3]()
+- [Module 10.5 Week 03 Practice day 01](https://docs.google.com/document/d/1-9luFdne8CUluy8FeZx74DQsJOY4Su7W/edit) [Ans](https://github.com/arifulmrislam/DS-and-OOP-with-Phitron/tree/master/Module%2010.5%20Week%203%20Practice%20Day%2001) ✔
+- [Module 11 week 3 Lab Class3]() ✔
 ```
 C++
 ```
@@ -96,6 +96,12 @@ C++
 Udemy
 ```
 - [Mastering Data Structures & Algorithms using C and C++](https://www.udemy.com/course/datastructurescncpp/)
+
+```
+C++ Data Structures and Algorithms Cheat Sheet
+
+```
+- [https://wiki.josephhyatt.com/) 🦾🧠
 
 ```
 Contributing
