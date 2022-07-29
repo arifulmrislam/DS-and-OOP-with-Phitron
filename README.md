@@ -101,7 +101,7 @@ Udemy
 C++ Data Structures and Algorithms Cheat Sheet
 
 ```
-- [https://wiki.josephhyatt.com/) 🦾🧠
+- [Cheat Sheet](https://wiki.josephhyatt.com/) 🦾🧠
 
 ```
 Contributing
