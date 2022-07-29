@@ -98,7 +98,7 @@ Udemy
 - [Mastering Data Structures & Algorithms using C and C++](https://www.udemy.com/course/datastructurescncpp/)
 
 ```
-C++ Data Structures and Algorithms Cheat Sheet
+C++ Data Structures and Algorithms
 
 ```
 - [Cheat Sheet](https://wiki.josephhyatt.com/) 🦾🧠
