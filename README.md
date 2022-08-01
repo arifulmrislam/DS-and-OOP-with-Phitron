@@ -85,7 +85,7 @@ Phitron
 - [Module 10.5 Week 03 Practice day 01](https://docs.google.com/document/d/1-9luFdne8CUluy8FeZx74DQsJOY4Su7W/edit) [Ans](https://github.com/arifulmrislam/DS-and-OOP-with-Phitron/tree/master/Module%2010.5%20Week%203%20Practice%20Day%2001) ✔
 - [Module 11 week 3 Lab Class3]() ✔
 - [Module 12 Lab Assignment 01]() ✔
-- [Module 13 Time Complexity]() ✔
+- [Module 13 Time Complexity](https://bn.quora.com/kampiutara-programinye-taima-kamapleksiti-balate-ki-bojhano-haya-kibhabe-ei-bisaye-daksa-hate-pari) [Link](https://iishanto.com/time-complexity-%E0%A6%AC%E0%A6%BF%E0%A6%97-o-%E0%A6%A8%E0%A7%8B%E0%A6%9F%E0%A7%87%E0%A6%B6%E0%A6%A8/) ✔
 ```
 C++
 ```
