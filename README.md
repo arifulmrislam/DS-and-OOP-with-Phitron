@@ -37,6 +37,8 @@ YouTube Channel
 - [Jennys Lectures](https://www.youtube.com/watch?v=9oWd4VJOwr0&list=PLdo5W4Nhv31bbKJzrsKfMpo_grxuLl8LU&index=100)
 
 - [Best Data Structures & Algorithms (DSA) Course](https://www.youtube.com/watch?v=rZ41y93P2Qo&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=2)
+
+- [Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer](https://www.youtube.com/watch?v=RBSGKlAvoiM)
 ```
 Important Links
 ```
