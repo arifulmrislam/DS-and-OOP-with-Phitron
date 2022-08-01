@@ -84,6 +84,8 @@ Phitron
 - [Module 10 Application to array (searching)](https://github.com/arifulmrislam/DS-and-OOP-with-Phitron/tree/master/Module%2010%20Application%20of%20Array(Searching)) ✔
 - [Module 10.5 Week 03 Practice day 01](https://docs.google.com/document/d/1-9luFdne8CUluy8FeZx74DQsJOY4Su7W/edit) [Ans](https://github.com/arifulmrislam/DS-and-OOP-with-Phitron/tree/master/Module%2010.5%20Week%203%20Practice%20Day%2001) ✔
 - [Module 11 week 3 Lab Class3]() ✔
+- [Module 12 Lab Assignment 01]() ✔
+- [Module 13 Time Complexity]() ✔
 ```
 C++
 ```
