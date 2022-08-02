@@ -86,6 +86,7 @@ Phitron
 - [Module 11 week 3 Lab Class3]() ✔
 - [Module 12 Lab Assignment 01]() ✔
 - [Module 13 Time Complexity](https://bn.quora.com/kampiutara-programinye-taima-kamapleksiti-balate-ki-bojhano-haya-kibhabe-ei-bisaye-daksa-hate-pari) [Link](https://iishanto.com/time-complexity-%E0%A6%AC%E0%A6%BF%E0%A6%97-o-%E0%A6%A8%E0%A7%8B%E0%A6%9F%E0%A7%87%E0%A6%B6%E0%A6%A8/) ✔
+- [Week 04 Practice day01](https://docs.google.com/document/d/1l6F24KE5ybFYgmCZ_tE987egbVu7DzLXecmVDJe9idw/edit)
 ```
 C++
 ```
