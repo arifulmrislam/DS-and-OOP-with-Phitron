@@ -90,7 +90,7 @@ Phitron
 - [Module 15 Lab Class 04](https://github.com/arifulmrislam/DS-and-OOP-with-Phitron/tree/master/Module%2015%20Lav%20Class%2004) [Links](http://www.shafaetsplanet.com/?p=2689) [Links](https://iishanto.com/linked-list-bangla-tutorial) ✔
 - [Module 15.5 Week 04 Practice Day 02](https://docs.google.com/document/d/1qzywabEiX9tWGaPVprxltnsA1AIkeJwuN20fm6-3LUA/edit) [Solutions]()
 - [Module 16 Theory Exam 01]() ✔
-- [Module 17 Linear Linked List Drive Deive]() ✔
+- [Module 17 Linear Linked List Deep Deive]() ✔
 ```
 C++
 ```
