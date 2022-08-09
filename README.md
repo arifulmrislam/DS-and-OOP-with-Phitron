@@ -91,6 +91,8 @@ Phitron
 - [Module 15.5 Week 04 Practice Day 02](https://docs.google.com/document/d/1qzywabEiX9tWGaPVprxltnsA1AIkeJwuN20fm6-3LUA/edit) [Solutions]()
 - [Module 16 Theory Exam 01]() ✔
 - [Module 17 Linear Linked List Deep Deive]() ✔
+- [Module 18 Linked List Operation 02]() ✔
+- [Module Week 5 Practice Day 01] 
 ```
 C++
 ```
