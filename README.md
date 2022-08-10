@@ -93,6 +93,7 @@ Phitron
 - [Module 17 Linear Linked List Deep Deive]() ✔
 - [Module 18 Linked List Operation 02]() ✔
 - [Module Week 5 Practice Day 01]()
+- [Module 19 Lab Class 05]()
 ```
 C++
 ```
