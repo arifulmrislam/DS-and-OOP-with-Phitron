@@ -89,7 +89,7 @@ Phitron
 - [Module 14.5 Week 04 Practice day 01](https://docs.google.com/document/d/1l6F24KE5ybFYgmCZ_tE987egbVu7DzLXecmVDJe9idw/edit) [Solutions](https://github.com/arifulmrislam/DS-and-OOP-with-Phitron/tree/master/Module%2014.5%20Practice%20Problems) ✔
 - [Module 15 Lab Class 04](https://github.com/arifulmrislam/DS-and-OOP-with-Phitron/tree/master/Module%2015%20Lav%20Class%2004) [Links](http://www.shafaetsplanet.com/?p=2689) [Links](https://iishanto.com/linked-list-bangla-tutorial) ✔
 - [Module 15.5 Week 04 Practice Day 02](https://docs.google.com/document/d/1qzywabEiX9tWGaPVprxltnsA1AIkeJwuN20fm6-3LUA/edit) [Solutions]()
-- [Module 16 Theory Exam 01]() ✔
+- [Module 16 Theory Exam 01](https://docs.google.com/document/d/e/2PACX-1vTFYcJd5zyYwZi4z3MPIr8Xa_6_ixIEWd2qUP5A1kRsNPotY_isasxb-9XsIVnQv5H56CQ9jpxtpfad/pub) [Solutions](https://docs.google.com/document/d/1SQ-oat8m-bjiuoOQxlNwXLxFvyQBdpQ78lo-sOXs0XQ/edit)✔
 - [Module 17 Linear Linked List Deep Deive]() ✔
 - [Module 18 Linked List Operation 02]() ✔
 - [Module 18.5 Week 5 Practice Day 01]()
