@@ -94,7 +94,7 @@ Phitron
 - [Module 18 Linked List Operation 02]() ✔
 - [Module 18.5 Week 5 Practice Day 01]()
 - [Module 19 Lab Class 05](https://github.com/arifulmrislam/DS-and-OOP-with-Phitron/tree/master/Module%2019%20Lab%20Class%2005) ✔
-- [Module 19.5 Week 5 Practice Day 02] ✔
+- [Module 19.5 Week 5 Practice Day 02]() ✔
 - [Module 20 Extra Exercise](https://docs.google.com/document/d/1lLIudXO_yEEkpM43i90Rqrxwg7-4imMoRdnkpWUUFYY/edit)
 - [Module 21 Linked List Advanced Topics Part 02]()
 ```
