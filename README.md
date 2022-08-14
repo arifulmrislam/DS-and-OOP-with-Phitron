@@ -123,7 +123,20 @@ C++ Data Structures and Algorithms
 - [Cheat Sheet 3](https://yunpengn.github.io/NUSheets/content/CS2020/final.pdf) 🦾🧠
 - [Cheat Sheet 4](https://drive.google.com/file/d/1Q_I6H8qBTTIFMHEPbbpKVrg_E5N6cFtg/view) 🦾🧠
 
+```
+CP Platform
 
+```
+- [LeetCode](https://leetcode.com/Ariful_Islam_Arif/)
+- [beeCrowd](https://www.beecrowd.com.br/judge/en/categories)
+- [Geeksforgeeks]()
+- [InterviewBit]()
+- [BinarySearch]()
+- [HackerRank]()
+- [Hackerearth]()
+- [codechef]()
+- [SPOJ]()
+- [DM::OJ]()
 ```
 Contributing
 ```
