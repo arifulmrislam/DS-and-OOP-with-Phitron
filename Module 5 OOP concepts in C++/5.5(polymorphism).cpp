@@ -21,7 +21,7 @@ public:
 int main()
 {
     Example ex;
-    //cout<<ex.add(1.5,2.0)<<endl;
+    cout<<ex.add(1.5,2.0)<<endl;
     ex.add('z');
     return 0;
 }
