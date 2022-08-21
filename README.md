@@ -100,6 +100,7 @@ Phitron
 - [Module 22 Introduction to Stack](https://github.com/arifulmrislam/DS-and-OOP-with-Phitron/tree/master/Module%2022%20Introduction%20to%20Stack) ✔
 - [Module 22.5 Week 06 Practice Day 01]()
 - [Module 23 Application of Stack Part 01]() ✔
+- [Module 22.5 Week 06 Practice Day 02]()
 - [Module 24 Lab Exam]() ✔
 - [Module 25 Application of Stack Part 02]() ✔
 ```
