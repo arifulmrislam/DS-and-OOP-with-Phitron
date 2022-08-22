@@ -64,7 +64,7 @@ int main()
     // Choice 2: Insertion of Tail
     cout << "Choice 1: Insertion of Head"
          << "Choice 2: Insertion of Tail" << endl
-         << "Choice 3: Exit"<<endl;
+         << "Choice 3: Exit" << endl;
     int choice = 1;
     while (choice == 1 || choice == 2)
     {
