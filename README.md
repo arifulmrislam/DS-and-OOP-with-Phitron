@@ -104,7 +104,7 @@ Phitron
 - [Module 24 Lab Exam]() ✔
 - [Module 25 Application of Stack Part 02]() ✔
 - [Module 26 Introduction to Queue](https://github.com/arifulmrislam/DS-and-OOP-with-Phitron/tree/master/Module%2026%20Introduction%20to%20Queue) ✔
-- [Modile 26.5 Week 07 Practice Day 01]() ✔
+- [Modile 26.5 Week 07 Practice Day 01](https://docs.google.com/document/d/1auTB6AK6m5V3ppsFclWYc8KzYMq0oRMM3b8_yW0pv9I/edit) [Ans]() ✔
 ```
 C++
 ```
