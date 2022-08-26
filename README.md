@@ -106,7 +106,7 @@ Phitron
 - [Module 26 Introduction to Queue](https://github.com/arifulmrislam/DS-and-OOP-with-Phitron/tree/master/Module%2026%20Introduction%20to%20Queue) ✔
 - [Modile 26.5 Week 07 Practice Day 01](https://docs.google.com/document/d/1auTB6AK6m5V3ppsFclWYc8KzYMq0oRMM3b8_yW0pv9I/edit) [Ans]() ✔
 - [Module 27 Lab Class 07]() ✔
-- [Module 27.5 Week 07 Practice Day 02]()
+- [Module 27.5 Week 07 Practice Day 02](https://docs.google.com/document/d/1y3bb5YoVVspCEMPllCJvfQRjMAtAa79mBdvjhEjVKrA/edit?fbclid=IwAR3C3WrwyD_q6L8nQUcQKSWg9QaUXH4wh9Ravrn80kQt7lUdeSIKvvHRS0c)
 - [Module 28 Theory Mid Term Exam]()
 ```
 C++
