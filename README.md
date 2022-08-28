@@ -108,6 +108,7 @@ Phitron
 - [Module 27 Lab Class 07]() ✔
 - [Module 27.5 Week 07 Practice Day 02](https://docs.google.com/document/d/1y3bb5YoVVspCEMPllCJvfQRjMAtAa79mBdvjhEjVKrA/edit?fbclid=IwAR3C3WrwyD_q6L8nQUcQKSWg9QaUXH4wh9Ravrn80kQt7lUdeSIKvvHRS0c)
 - [Module 28 Theory Mid Term Exam](https://docs.google.com/document/d/1walE3WiPF5EQnO3N4E1J8VeIrLzF0HdeQCU6hje9O1g/edit?usp=sharing) ✔
+- [Module 29 Binary Tree | Part 1]() ✔
 ```
 C++
 ```
