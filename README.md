@@ -99,10 +99,10 @@ Phitron
 - [Module 21 Linked List Advanced Topics Part 02](https://github.com/arifulmrislam/DS-and-OOP-with-Phitron/tree/master/Module%2021%20Linked%20List%20Advanced%20Topics%20Part%202) ✔
 - [Module 22 Introduction to Stack](https://github.com/arifulmrislam/DS-and-OOP-with-Phitron/tree/master/Module%2022%20Introduction%20to%20Stack) ✔
 - [Module 22.5 Week 06 Practice Day 01]()
-- [Module 23 Application of Stack Part 01]() ✔
+- [Module 23 Application of Stack | Part 01]() ✔
 - [Module 22.5 Week 06 Practice Day 02]()
 - [Module 24 Lab Exam]() ✔
-- [Module 25 Application of Stack Part 02]() ✔
+- [Module 25 Application of Stack | Part 02]() ✔
 - [Module 26 Introduction to Queue](https://github.com/arifulmrislam/DS-and-OOP-with-Phitron/tree/master/Module%2026%20Introduction%20to%20Queue) ✔
 - [Modile 26.5 Week 07 Practice Day 01](https://docs.google.com/document/d/1auTB6AK6m5V3ppsFclWYc8KzYMq0oRMM3b8_yW0pv9I/edit) [Ans]() ✔
 - [Module 27 Lab Class 07]() ✔
