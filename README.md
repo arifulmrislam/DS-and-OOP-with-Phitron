@@ -111,6 +111,7 @@ Phitron
 - [Module 29 Binary Tree | Part 1]() ✔
 - [Module 30 Binary Tree | Part 2](https://github.com/arifulmrislam/DS-and-OOP-with-Phitron/tree/master/Module%2030%20Binary%20Tree%20Part-2) ✔
 - [Module 30.5 Practice Problem set](https://docs.google.com/document/d/1Gkn0wsZHL3cuX9XuP1Sg2bMeAAUMFEX-zbfLFEVD7uM/edit) 
+- [Module 31](Lab Module 08) ✔
 
 ```
 C++
