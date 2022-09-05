@@ -113,6 +113,7 @@ Phitron
 - [Module 30.5 Practice Problem set](https://docs.google.com/document/d/1Gkn0wsZHL3cuX9XuP1Sg2bMeAAUMFEX-zbfLFEVD7uM/edit) 
 - [Module 31 Lab Module 08]() ✔
 - [Module 32 Lab Assignment 08](https://docs.google.com/document/d/1_lDF4iEG00UzPZYoB_rZW8x5-AswZcwoLa866uG4Ih4/edit) [Ans](https://docs.google.com/document/d/1B--kc3ccqThkA7QbhkaA9orWfrfc51zCxYSOk9IX9Zw/edit?pli=1) ✔
+- [Module 33 Linked List Problem Solving](https://docs.google.com/document/d/13wvanKrWyxXiv8R6Kra7Th2vxIm1tVeCidzoUkvcpME/edit) ✔
 
 ```
 C++
