@@ -21,6 +21,7 @@ void spacePrint(int level);
 void inOrder(treeNode *root, string &chk);
 void preOrder(treeNode *root, string &chk);
 void postOrder(treeNode *root, string &chk);
+void levelOrderTraversal(treeNode *root, string &chk);
 
 void inOrder(treeNode *root, string &chk) //Left Root Right
 {
@@ -93,6 +94,44 @@ void spacePrint(int level)
     }
 }
 
+int levelOrderTraversal(treeNode *root, string &chk,int k){
+    if(root==NULL){
+        return -1;
+    }
+    int level = 0;
+    queue<treeNode*>q;
+    q.push(root);
+    q.push(NULL);
+    int max = -9999;
+
+    while(!q.empty()){
+        treeNode* chkNode = q.front();
+        q.pop();
+        if(chkNode!=NULL){
+            if(level==k){
+                if(max<chkNode->data){
+                    max=chkNode->data;
+                }
+            }
+            cout<<chkNode->data<<" ";
+            chk+= to_string(chkNode->data);
+            if(chkNode->leftChild!=NULL){
+                q.push(chkNode->leftChild);
+            }
+            if(chkNode->rightChild!=NULL){
+                q.push(chkNode->rightChild);
+            }
+        }
+        else{
+            if(!q.empty()){
+                q.push(NULL);
+                level ++;
+            }
+        }
+    }
+    return max;
+}
+
 int main()
 {
     int n;
@@ -128,22 +167,30 @@ int main()
         }
     }
     // allNodes er root and root er level;
-    printTree(allNodes[0], 0);
+    // printTree(allNodes[0], 0);
 
     string inordertraversal = "";
-    inOrder(allNodes[0], inordertraversal);
+    // inOrder(allNodes[0], inordertraversal);
 
     string preordertraversal = "";
-    preOrder(allNodes[0], preordertraversal);
+    // preOrder(allNodes[0], preordertraversal);
 
     string postordertraversal = "";
-    postOrder(allNodes[0], postordertraversal);
+    // postOrder(allNodes[0], postordertraversal);
 
-    cout << "Inorder Traversal : " << inordertraversal << endl;
+    string levelorderTraversal = "";
+    int maxValueAtK = levelOrderTraversal(allNodes[0],levelorderTraversal, 2);
 
-    cout << "Preorder Traversal : " << preordertraversal << endl;
+    // cout << "Inorder Traversal : " << inordertraversal << endl;
 
-    cout << "Postorder Traversal : " << postordertraversal << endl;
+    // cout << "Preorder Traversal : " << preordertraversal << endl;
+
+    // cout << "Postorder Traversal : " << postordertraversal << endl;
+
+    // cout<<"LevelOrder Travarsal : " << levelOrderTraversal << endl;
+
+    cout <<endl << maxValueAtK << endl << endl;
+
     return 0;
 }
 
