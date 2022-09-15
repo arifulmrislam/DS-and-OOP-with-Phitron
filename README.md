@@ -149,7 +149,7 @@ CP Platform
 
 ```
 - [LeetCode](https://leetcode.com/Ariful_Islam_Arif/)
-- [beeCrowd](https://www.beecrowd.com.br/judge/en/categories)
+- [beeCrowd](https://www.beecrowd.com.br/judge/en/categories) 🦾🧠
 - [Geeksforgeeks]()
 - [InterviewBit]()
 - [BinarySearch]()
