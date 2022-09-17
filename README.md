@@ -117,7 +117,10 @@ Phitron
 - [Module 34 Stack and Queue Reletad Problem Solving](https://docs.google.com/document/d/1Pj2N7cs8x4-WKa-CPinTtIqFBE0N-p413jBPXtXhW5o/edit) ✔
 - [Lab Class 09](https://docs.google.com/document/d/1k9NgACgQ3LLeAewmxdziV-z27EfzVoZK6n2pFL5J9ug/edit) ✔
 - [Module 35.5 week 08 Practice Day ](https://docs.google.com/document/d/1KXT8E1b1XEpxPAA5ok5yFGxImByxtMkfkJPB9YUqWQI/edit)
-- [Module 36 Binary Search Tree](https://algorithms.tutorialhorizon.com/top-25-problems-on-binary-trees-binary-search-trees/)
+- [Module 36 Binary Search Tree](https://algorithms.tutorialhorizon.com/top-25-problems-on-binary-trees-binary-search-trees/) ✔
+- [Module 37 Heap | Priority Queue]() ✔
+- [Module 37.5 Week 09 Practice Day 01](https://docs.google.com/document/d/1022pKJd1TfvXHLqVLQsKe4dCV4S-ahgKu4XYWPHKwvM/edit) 
+- [Module 38 Week 10 Pract](https://docs.google.com/document/d/1022pKJd1TfvXHLqVLQsKe4dCV4S-ahgKu4XYWPHKwvM/edit)
 
 ```
 C++
