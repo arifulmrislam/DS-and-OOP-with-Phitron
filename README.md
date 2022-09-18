@@ -120,7 +120,9 @@ Phitron
 - [Module 36 Binary Search Tree](https://algorithms.tutorialhorizon.com/top-25-problems-on-binary-trees-binary-search-trees/) ✔
 - [Module 37 Heap | Priority Queue]() ✔
 - [Module 37.5 Week 09 Practice Day 01](https://docs.google.com/document/d/1022pKJd1TfvXHLqVLQsKe4dCV4S-ahgKu4XYWPHKwvM/edit) 
-- [Module 38 Week 10 Pract](https://docs.google.com/document/d/1022pKJd1TfvXHLqVLQsKe4dCV4S-ahgKu4XYWPHKwvM/edit)
+- [Module 38 Lab Class 10](https://docs.google.com/document/d/1022pKJd1TfvXHLqVLQsKe4dCV4S-ahgKu4XYWPHKwvM/edit) ✔
+- [Module 38.5 Practice Problem Day 02](https://docs.google.com/document/d/1eehlWzFaoD0r2kKDdixobeOe-G4wX9xmgOUDDVK3VqM/edit)
+
 
 ```
 C++
