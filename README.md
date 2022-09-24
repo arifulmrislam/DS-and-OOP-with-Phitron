@@ -152,6 +152,7 @@ C++ Data Structures and Algorithms
 - [Cheat Sheet 2](https://cheatography.com/burcuco/cheat-sheets/data-structures-and-algorithms/) 🦾🧠
 - [Cheat Sheet 3](https://yunpengn.github.io/NUSheets/content/CS2020/final.pdf) 🦾🧠
 - [Cheat Sheet 4](https://drive.google.com/file/d/1Q_I6H8qBTTIFMHEPbbpKVrg_E5N6cFtg/view) 🦾🧠
+- [Cheat Sheet 5](https://drive.google.com/drive/folders/1-uRXzEHiX6G4idYWRAQxnjFwtYYNfuEP?usp=sharing) 🦾🧠
 
 ```
 CP Platform
