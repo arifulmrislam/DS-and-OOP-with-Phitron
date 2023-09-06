@@ -172,6 +172,10 @@ CP Platform
 - [SPOJ]()
 - [DM::OJ]()
 ```
+DSA Handwritten Notes
+```
+- [GoogleDrive](https://drive.google.com/file/d/19R6aBlKrUrZCAux9qcZrRCC1RZ4B_GdT/view?usp=sharing)
+```
 Contributing
 ```
 This is a personal learning project for me.
